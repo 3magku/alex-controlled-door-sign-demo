@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Status",
+          "type": "STATUS_TYPE"
+        }
+      ],
+      "intent": "ShowStatus"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

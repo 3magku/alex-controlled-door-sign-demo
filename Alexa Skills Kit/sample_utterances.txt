@@ -1,0 +1,4 @@
+ShowStatus display that we are {Status}
+ShowStatus show that i am {Status}
+ShowStatus we are {Status}
+ShowStatus i am {Status}
