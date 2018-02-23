@@ -3,8 +3,8 @@
 /*
  * App ID for the skill
  */
-var APP_ID = "REPLACE__ALEXA_APP_ID;
-var SKILL_NAME = 'REPLACE_ALEXA_SKILL_NAME';
+var APP_ID = "REPLACE_ME__ALEXA_APP_ID";
+var SKILL_NAME = "REPLACE_ME__ALEXA_SKILL_NAME";
 
 /*
  * Alexa SDK
